@@ -1,4 +1,4 @@
-🎙️ Voice Assistant using Python
+🎙️ Virtual Assistant
 
  Voice Assistant built using Python that utilizes basic Natural Language Processing (NLP) and Speech Recognition to understand voice commands, perform web 
  searches, provide information from Wikipedia, open websites, tell jokes, announce the current time, play music, and send emails.
