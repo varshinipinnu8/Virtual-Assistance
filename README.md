@@ -1,35 +1,29 @@
 🎙️ Voice Assistant using Python
 
- Voice Assistant built using Python that utilizes basic Natural Language Processing (NLP) and Speech Recognition to understand voice commands, perform web searches, provide information from Wikipedia, open websites, tell jokes, announce the current time, play music, and send emails.
+ Voice Assistant built using Python that utilizes basic Natural Language Processing (NLP) and Speech Recognition to understand voice commands, perform web 
+ searches, provide information from Wikipedia, open websites, tell jokes, announce the current time, play music, and send emails.
 
  🚀 Features 
    
-  🎤 Speech Recognition using microphone input 
-
-  🔊 Text-to-Speech responses 
-
-  🌐 Open Google, YouTube 
-
-  📚 Search and summarize Wikipedia articles 
-
-  🕒 Tell the current time 
-
-  😂 Generate random jokes 
-
-  🎵 Play music files from the local system 
-
-  📧 Send emails using SMTP 
-
-  👤 Personalized user greetings
+    🎤 Speech Recognition using microphone input 
+    🔊 Text-to-Speech responses 
+    🌐 Open Google, YouTube 
+    📚 Search and summarize Wikipedia articles 
+    🕒 Tell the current time 
+    😂 Generate random jokes 
+    🎵 Play music files from the local system 
+    📧 Send emails using SMTP 
+    👤 Personalized user greetings
 
 🛠️ Technologies Used
-  * Python 3.x 
-  * SpeechRecognition 
-  * PyAudio 
-  * pyttsx3 
-  * Wikipedia API 
-  * SMTP (Email Service) 
-  * python-dotenv    
+
+    * Python 3.x 
+    * SpeechRecognition 
+    * PyAudio 
+    * pyttsx3 
+    * Wikipedia API 
+    * SMTP (Email Service) 
+    * python-dotenv    
 
 📂 Project Structure 
 
@@ -81,6 +75,7 @@
   * Task scheduling and reminders  
 
 📈 Learning Outcomes 
+
  Through this project, I gained experience with: 
   * Python programming 
   * APIs and third-party libraries 
