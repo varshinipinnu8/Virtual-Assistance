@@ -64,6 +64,7 @@
     Create a .env file:
 
     EMAIL_USER=varshinipinnu8@gmail.com
+    
     EMAIL_PASS=""
 
 ⚠️ Challenges Faced 
